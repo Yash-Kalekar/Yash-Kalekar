@@ -1,9 +1,8 @@
 ![Gamer Room_ Cyberpunk, ExceptRea](https://github.com/Yash-Kalekar/Yash-Kalekar/assets/100889039/88f5fcce-62c8-4e21-b9cb-210021fbb422)
 
 
-<h1 align="center">Hi ![hi](https://github.com/Yash-Kalekar/Yash-Kalekar/assets/100889039/5bace0bc-b60e-4fb8-b45c-97acb96c0883)
-, I'm Yash Mangesh Kalekar</h1>
-<h3 align="center">An Engineering Undergraduate student 💻 from India</h3>
+<h1 align="center">Hi 👋, I'm Yash Mangesh Kalekar</h1>
+<h3 align="center">An Engineering Undergraduate student 💻 from India</h3>  <iframe src="https://assets.pinterest.com/ext/embed.html?id=164311086392276078" height="359" width="345" frameborder="0" scrolling="no" ></iframe>
 
 - 🌱 I’m currently learning **Machine Learning & Artificial Intelligence**
 
