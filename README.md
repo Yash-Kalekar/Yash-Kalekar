@@ -2,7 +2,8 @@
 
 
 <h1 align="center">Hi 👋, I'm Yash Mangesh Kalekar</h1>
-<h3 align="center">An Engineering Undergraduate student 💻 from India</h3>
+<h3 align="center">An Engineering Undergraduate student 💻 from India</h3>      ![Metin Seven_ visualizer, pixel artist, illustrator, designer, 3D modeler](https://github.com/Yash-Kalekar/Yash-Kalekar/assets/100889039/0fc776c5-8992-4fc3-ba36-01ef565c6465)
+
 
 - 🌱 I’m currently learning **Machine Learning & Artificial Intelligence**
 
