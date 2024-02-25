@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **yashkalekar82@gmail.com**
 
-- ⚡ Fun fact **Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves.**
+- ⚡ Fun fact **"Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves."**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
