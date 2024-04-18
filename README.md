@@ -1,6 +1,6 @@
 ![Gamer Room_ Cyberpunk, ExceptRea](https://github.com/Yash-Kalekar/Yash-Kalekar/assets/100889039/88f5fcce-62c8-4e21-b9cb-210021fbb422)
 
-<h1 align="center">Hi!! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGI4YjM2ZGNiNTg5NTI2N2UxNjdkNDNjM2E2OTAzODkyZTQ3MmYwZCZjdD1z/w1OBpBd7kJqHrJnJ13/giphy.gif" width="40px"> I'm Yash Mangesh Kalekar</h1>
+<h1 align="center">Hi ! <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGI4YjM2ZGNiNTg5NTI2N2UxNjdkNDNjM2E2OTAzODkyZTQ3MmYwZCZjdD1z/w1OBpBd7kJqHrJnJ13/giphy.gif" width="40px"> I'm Yash Mangesh Kalekar</h1>
 <h3 align="center">An Engineering Undergraduate student 💻 from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Yash-Kalekar&label=Profile%20views&color=blueviolet&style=plastic" alt="yash-kalekar"/> </p>
 
