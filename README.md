@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **yashkalekar82@gmail.com**
 
-- 📄 Here is my Resume: [Resume](https://drive.google.com/file/d/1n4n_MZ2-bAYvUzLNFmGZF_bEx3atmkzL/view)
+- 📄 Here is my Resume: [Resume](https://drive.google.com/file/d/1FYKWJfnGrj06KjI-Zxr30jqrHnTEduKV/view?usp=drivesdk) 
 
 - ⚡ Fun fact **"Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves."**
 
