@@ -10,9 +10,9 @@
   
 - 👨‍💻 My Portfolio/Website: [Portfolio](https://yashkalekar.vercel.app/)
 
-- 📫 How to reach me **yashkalekar82@gmail.com**
+- 📫 How to reach me **yashkalekar82@gmail.com**s
 
-- 📄 Here is my Resume: [Resume](https://drive.google.com/file/d/1FYKWJfnGrj06KjI-Zxr30jqrHnTEduKV/view?usp=drivesdk) 
+- 📄 Here is my Resume: [Resume](https://drive.google.com/file/d/1eAqVRF5mLfScjIPDe9C6cGpEOMIl7sQG/view?usp=sharing) 
 
 - ⚡ Fun fact **"Most software today is very much like an Egyptian pyramid with millions of bricks piled on top of each other, with no structural integrity, but just done by brute force and thousands of slaves."**
 
