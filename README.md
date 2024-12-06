@@ -10,7 +10,7 @@
   
 - 👨‍💻 My Portfolio/Website: [Portfolio](https://yashkalekar.vercel.app/)
 
-- 📫 How to reach me **yashkalekar82@gmail.com**s
+- 📫 How to reach me **yashkalekar82@gmail.com**
 
 - 📄 Here is my Resume: [Resume](https://drive.google.com/file/d/1eAqVRF5mLfScjIPDe9C6cGpEOMIl7sQG/view?usp=sharing) 
 
