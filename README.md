@@ -20,7 +20,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/yash-kalekar-8bb736284/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash-kalekar" height="30" width="40" /></a>
 <a href="https://x.com/yashkalekar19" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="yash-kalekar" height="30" width="40" /></a>
-<a href="https://www.instagram.com/yash.kalekar?igsh=MWppYnRxNjJnaDNlMQ==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.__adityasharma_.__" height="30" width="40" /></a>
+<a href="https://www.instagram.com/yash.kalekar?igsh=MWppYnRxNjJnaDNlMQ==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yash-kalekar" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
